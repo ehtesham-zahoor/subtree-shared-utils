@@ -3,3 +3,6 @@ def greet(name):
 
 def shout(text):
     return text.upper() + '!!e!!'
+
+def scream(text):
+    return f"{text.upper()}?!?!?!!"
